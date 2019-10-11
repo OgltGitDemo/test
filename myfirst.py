@@ -4,6 +4,3 @@ print('dev')
 
 
 print('modify')
-print('modify')
-print('modify')
-print('modify')
